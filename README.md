@@ -1,11 +1,11 @@
 <h3 align="center">
-  Welcome to Create-LY's profile!
+  Welcome to devforgely's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Always+trying+to+learn+new+things!;I+love+to+program+in%3A;Java%2C+Python+and+C%23!;I+make+unique+things+...+sometimes;Hobbyist+Developer)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @Create-LY.
+- 👋 Hi, I’m @devforgely.
 - 👀 I’m interested in many things. I have been programming Python and Java for the longest. I have made a website in the past...
 - 🌱 I’m currently doing projects in JS, Java and C#.
 - 📫 How to reach me: ljyu23@gmail.com - yes, that is the one using SMTP.
@@ -63,6 +63,6 @@
 </p>
 
 <!---
-Creator-LY/Creator-LY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+devforgely/devforgely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
