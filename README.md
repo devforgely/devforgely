@@ -8,7 +8,6 @@
 - 👋 Hi, I’m @devforgely.
 - 👀 I’m interested in many things. I have been programming Python and Java for the longest. I have made a website in the past...
 - 🌱 I’m currently doing projects in Python, JS, Java and C#.
-- 📫 How to reach me: ljyu23@gmail.com - yes, that is the one using SMTP.
 - ✋ Personal website: <a href="https://liangji-yu.com">liangji-yu.com</a>
 
 ## Important Bits
