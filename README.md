@@ -6,60 +6,64 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Always+trying+to+learn+new+things!;I+love+to+program+in%3A;Java%2C+Python+and+C%23!;I+make+unique+things+...+sometimes;Hobbyist+Developer)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @devforgely.
-- 👀 I’m interested in many things. I have been programming Python and Java for the longest. I have made a website in the past...
-- 🌱 I’m currently doing projects in Python, JS, Java and C#.
+- 👀 I’m interested in many things. I've build reliable, maintainable software across backend systems, APIs, and modern web interfaces. Comfortable moving between object-oriented, functional, and systems-level thinking, with a practical focus on clean architecture, testing, and shipping working software.
 - ✋ Personal website: <a href="https://liangji-yu.com">liangji-yu.com</a>
 
 ## Important Bits
 
-### Programming and markup Languages that I know
-
+### Core Technologies
 <p>
-    <a href="https://www.java.com"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white&style=plastic"></a>
-    <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=plastic"></a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white&style=plastic"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=plastic"></a>
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=plastic"></a>
-    <a href="https://www.w3.org/html/"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=plastic"></a>
-    <a href="https://dev.mysql.com/doc/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=plastic"></a>
+  <a href="https://www.java.com"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white&style=plastic"></a>
+  <a href="https://spring.io/"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white&style=plastic"></a>
+  <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=plastic"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white&style=plastic"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=plastic"></a>
+  <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB&style=plastic"></a>
+  <a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E.svg?logo=vuedotjs&logoColor=4FC08D&style=plastic"></a>
+  <a href="https://www.w3.org/Style/CSS/"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=plastic"></a>
+  <a href="https://html.spec.whatwg.org/"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=plastic"></a>
+  <a href="https://dev.mysql.com/doc/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=plastic"></a>
 </p>
 
-### Programming and markup Languages that I "touched"
+### Also Comfortable With
+<a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white&style=plastic"></a>
+<a href="https://devdocs.io/cpp/"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white&style=plastic"></a>
+<a href="https://devdocs.io/c/"><img alt="C" src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white&style=plastic"></a>
+<a href="https://soliditylang.org/"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636.svg?logo=solidity&logoColor=white&style=plastic"></a>
 
-<a href="https://devdocs.io/c/"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic"></a>
-<a href="https://devdocs.io/cpp/"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic"></a>
-<a href="https://www.haskell.org/documentation/"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"></a>
-<a href="https://docs.soliditylang.org/en/v0.8.20/"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"></a>
-<a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"></a>
-
-### Frameworks and libraries
-
+### Frameworks, Libraries & Data
 <p>
-    <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white&style=plastic"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white&style=plastic"></a>
-    <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-    <a href="https://vuejs.org/guide/introduction.html"><img alt="React" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>  
-    <a href="https://spring.io/"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a> 
+  <a href="https://junit.org/"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white&style=plastic"></a>
+  <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white&style=plastic"></a>
+  <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white&style=plastic"></a>
+  <a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white&style=plastic"></a>
+  <a href="https://spring.io/"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white&style=plastic"></a>
 </p>
 
-### Databases and cloud hosting
-
+### Databases & Caching
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=plastic"></a>
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white&style=plastic"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white&style=plastic"></a>
+  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white&style=plastic"></a>
+  <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white&style=plastic"></a>
+  <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white&style=plastic"></a>
 </p>
 
-### Software and tools
-
+### DevOps, Monitoring & Cloud
 <p>
-    <a href="#"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=plastic"></a>
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&style=plastic"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic"></a>
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white&style=plastic"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=plastic"></a>
+  <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white&style=plastic"></a>
+  <a href="https://www.jenkins.io/"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white&style=plastic"></a>
+  <a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white&style=plastic"></a>
+  <a href="https://www.cloudflare.com/"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white&style=plastic"></a>
+  <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=plastic"></a>
+  <a href="https://replit.com/"><img alt="Replit" src="https://img.shields.io/badge/Replit-0D101E.svg?logo=replit&logoColor=white&style=plastic"></a>
+</p>
+
+### Tools & Environment
+<p>
+  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=plastic"></a>
+  <a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D7.svg?logo=visual-studio-code&logoColor=white&style=plastic"></a>
+  <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white&style=plastic"></a>
+  <a href="https://www.eclipse.org/"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=eclipseide&logoColor=white&style=plastic"></a>
+  <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black&style=plastic"></a>
 </p>
 
 <!---
